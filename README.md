@@ -48,10 +48,5 @@ During my time at Nutech, I did not just focus on coursework — I also got prac
 
 ---
 
-## 📈 GitHub Stats
-
-![Muhammad Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true)
-
----
 
 > *"Security is not a product, but a process."* — Bruce Schneier
